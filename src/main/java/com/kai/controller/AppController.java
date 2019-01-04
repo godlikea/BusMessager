@@ -20,7 +20,7 @@ public class AppController {
 		jsonObject.put("myTeamCount", 10);
 		jsonObject.put("teamName", "北京市驻郑州市分部");
 		jsonObject.put("address", "榆林南路241号");
-		int i=1/0;
+		//int i=1/0;
 		return jsonObject;
 	}
 	
